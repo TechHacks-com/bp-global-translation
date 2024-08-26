@@ -34,7 +34,7 @@ const TranslationWidget: React.FC = () => {
   return (
     <div id="gt-mordadam-43217984" className=''>
       <Script
-        src="/utils/gt.min.js" // Make sure this path is correct and the file is available in the public directory
+        src="/utils/gt.min.js" 
         strategy="afterInteractive"
         onLoad={() => {
           // You can also add additional actions once the script is loaded here if needed
