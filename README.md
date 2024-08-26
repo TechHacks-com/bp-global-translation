@@ -1,2 +1,2 @@
 # bp-translate-lib
-Google Translation Libraire
+Google Translation Library
