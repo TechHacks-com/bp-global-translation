@@ -1,0 +1,12 @@
+{
+  "name": "bp-global-translation",
+  "version": "1.0.0",
+  "description": "Google Translation Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bhathiya Prasad",
+  "license": "ISC"
+}
